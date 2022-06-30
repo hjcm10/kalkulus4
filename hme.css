@@ -69,9 +69,8 @@ nav.menu ul a:hover {
 }
  
 .sidebar {
-	width:430px;
-	position: absolute;
-	left: 65%;
+	float:right;
+	width:290px;
 }
  
 .sidebar .widget {
